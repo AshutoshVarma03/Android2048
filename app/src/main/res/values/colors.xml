@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <color name="background">#FFF8F0</color>
+    <color name="title_color">#FF5722</color>
+    <color name="text_color">#424242</color>
+    <color name="score_color">#2196F3</color>
+    <color name="status_color">#4CAF50</color>
+    <color name="board_background">#BBADA0</color>
+
+    <!-- Mode buttons -->
+    <color name="mode_2048">#FF9800</color>
+    <color name="mode_4096">#E91E63</color>
+    <color name="mode_8192">#9C27B0</color>
+
+    <!-- Control buttons -->
+    <color name="undo_button">#03A9F4</color>
+    <color name="reset_button">#F44336</color>
+
+    <!-- Tile colors -->
+    <color name="tile_2">#EEE4DA</color>
+    <color name="tile_4">#EDE0C8</color>
+    <color name="tile_8">#F2B179</color>
+    <color name="tile_16">#F59563</color>
+    <color name="tile_32">#F67C5F</color>
+    <color name="tile_64">#F65E3B</color>
+    <color name="tile_128">#EDCF72</color>
+    <color name="tile_256">#EDCC61</color>
+    <color name="tile_512">#EDC850</color>
+    <color name="tile_1024">#EDC53F</color>
+    <color name="tile_2048">#EDC22E</color>
+    <color name="tile_4096">#3C3A32</color>
+    <color name="tile_8192">#121212</color>
+</resources>
